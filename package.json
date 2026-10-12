@@ -1,0 +1,6 @@
+{
+  "name": "tvz-qr",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {"qrcode-generator": "2.0.4"}
+}
